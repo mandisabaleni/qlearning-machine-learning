@@ -3,4 +3,4 @@
 
 File edited by Mandisa Baleni: CQLearningController.cpp, implemented update and initialize methods 
 
-run main
+run main.cpp
